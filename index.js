@@ -1,3 +1,6 @@
+window.addEventListener("load", onload);
+
+function onload(){
 // popup
 
 const popup = document.querySelector("#popup");
@@ -26,4 +29,5 @@ function menu() {
       navItem.ClassList.add("nav-item-show");
     }
   }
+}
 }
