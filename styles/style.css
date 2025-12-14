@@ -128,19 +128,12 @@ a {
     background-size: cover;
   }
 
-  /* .navbar {
-    flex-direction: column;
-  }
-
-  .nav-item {
-    width: max-content;
-  } */
 
   .nav-item {
     display: none;
   }
 
-  .nav-item-show {
+  .nav-item.show {
     display: flex;
     animation: burger 1s;
   }
