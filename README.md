@@ -24,7 +24,7 @@
 ---
 
 ```markdown
-```
+
 Purple-Restaurant-Website/
 │
 ├── index.html
